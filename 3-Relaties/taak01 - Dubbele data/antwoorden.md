@@ -1,5 +1,7 @@
 # Antwoorden opdracht 1
 
+
+
 Antwoord in bytes:
 
 Antwoord in kilobytes:
